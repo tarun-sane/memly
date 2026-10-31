@@ -1,0 +1,10 @@
+{
+  "name": "memly — Idea \u0026 Memory Sanctuary",
+  "description": "A minimalist editorial workspace and visual archive for capturing, searching, retrieving, and visualizing interconnected ideas and past memories across time.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
